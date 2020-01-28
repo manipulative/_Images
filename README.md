@@ -1,2 +1,17 @@
 # _Images
-To store the pictures of Markdown
+## 简介
+
+markdown图床系统
+
+本系统运转过程如下：
+
+1. 使用typora的图片复制功能在写作过程中将所有插入图片复制到指定文件夹
+2. 通过replace.py脚本将md内的图片路径全部替换为网络路径
+3. 通过git一键脚本上传文件图片到github
+
+
+
+## 未来方向
+
+- [ ] 整合2和3，在修改路径的同时一键git 
+
