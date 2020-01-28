@@ -1,5 +1,5 @@
 echo "Start submitting code to the local repository"
-echo "The current directory is：%cd%"
+echo "The current directory is：/Users/siyuan/OneDrive/function/_Images"
 git add *
 echo;
  
