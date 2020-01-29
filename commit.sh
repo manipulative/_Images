@@ -5,4 +5,4 @@ git push origin master
 echo "Finished Push"
 
 read -p "please input .md dictionary:" dictionary
-python replace.py $dictionary
+python3 replace.py $dictionary
